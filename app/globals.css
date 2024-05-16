@@ -2,3 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+.kavoon-font {
+    font-family: 'kavoon', inter;
+    /* font-weight: ; */
+  }

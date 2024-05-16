@@ -3,6 +3,7 @@ import BlurArrow from "@/public/assets/blue-button.svg";
 import Gradient from "@/public/assets/Gradient.svg";
 import GreenGradient from "@/public/assets/GreenGradient.svg";
 import HeroImage from "@/public/assets/Image.svg";
+import HeroImage2 from "@/public/assets/hero2.svg";
 import Google from "@/public/assets/Google.svg";
 import Slack from "@/public/assets/Slack.svg";
 import Trustpilot from "@/public/assets/Trustpilot.svg";
@@ -16,7 +17,7 @@ export default function Hero() {
   return (
     <div className="pt-4 lg:pt-10">
       <div className="px-[20px] lg:px-[280px]">
-        <h1 className="text-center text-[32px] leading-[40px] font-medium text-[#172026] lg:text-[64px]  lg:leading-[72px] ">
+        <h1 className="kavoon-font text-center text-[32px] leading-[40px] font-extrabold text-[#172026] lg:text-[64px]  lg:leading-[72px] ">
         Elevate Your Social Media Presence like a{" "}
           <span className="relative inline-block">
             pro
