@@ -17,7 +17,7 @@ export default function Hero() {
   return (
     <div className="pt-4 lg:pt-10">
       <div className="px-[20px] lg:px-[280px]">
-        <h1 className="kavoon-font text-center text-[32px] leading-[40px] font-extrabold text-[#172026] lg:text-[64px]  lg:leading-[72px] ">
+        <h1 className="text-center text-[32px] leading-[40px] font-md text-[#172026] lg:text-[64px]  lg:leading-[72px] ">
         Elevate Your Social Media Presence like a{" "}
           <span className="relative inline-block">
             pro
